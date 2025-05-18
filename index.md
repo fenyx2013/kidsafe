@@ -4,7 +4,7 @@ layout: default
 
 This website is for edcational porposes. Here we publish real stories of kids that we're abused or exploited and explain what you can do if you are in situations like this.
 
-# Introo
+# Intro
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
