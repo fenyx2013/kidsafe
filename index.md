@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Kid safe 
 # Intro
 This website is for edcational porposes. Here we publish real stories of kids that we're abused or exploited and explain what you can do if you are in situations like this.
 
